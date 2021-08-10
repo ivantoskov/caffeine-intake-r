@@ -1,0 +1,132 @@
+What is your age?,Do you consume caffeinated drinks?,What type of caffeinated beverage do you usually consume?,About how many caffeinated beverages do you consume daily?,For what purpose would you consume a caffeinated beverage?,"In your opinion, do you consider caffeine to be a drug or a food supplement?",How many hours of sleep do you get each night?
+18-29,Yes,Coffee,3,To feel more awake,Drug,6
+18-29,Yes,Energy drink,1,To feel more awake,Food supplement,7
+18-29,Yes,Energy drink,1,To stay up late,Food supplement,8
+18-29,Yes,Coffee,3,To be more focused and concentrated,Drug,7
+30-45,Yes,Coffee,2,To be more focused and concentrated,Food supplement,7
+18-29,Yes,Pre-workout drinks,1,To improve physical performance,Food supplement,6
+45-60,No,,0,,Drug,9
+<18,Yes,Pre-workout drinks,1,To improve physical performance,Food supplement,8
+<18,No,,0,,Drug,9
+45-60,Yes,Tea,1,No specific purpose,Food supplement,8
+18-29,Yes,Energy drink,2,To be more focused and concentrated,Food supplement,7
+30-45,Yes,Coffee,4,To be more focused and concentrated,Food supplement,6
+>60,Yes,Tea,1,To feel more awake,Food supplement,8
+30-45,Yes,Coffee,2,To be more focused and concentrated,Drug,7
+18-29,Yes,Pre-workout drinks,1,To improve physical performance,Food supplement,7
+18-29,Yes,Coffee,5,To be more focused and concentrated,Drug,6
+<18,Yes,Energy drink,2,No specific purpose,Food supplement,8
+<18,Yes,Energy drink,3,To be more focused and concentrated,Food supplement,8
+45-60,Yes,Pre-workout drinks,1,To improve physical performance,Food supplement,8
+<18,No,,0,,Drug,8
+18-29,Yes,Coffee,3,To feel more awake,Drug,7
+18-29,Yes,Energy drink,1,To be more focused and concentrated,Food supplement,7
+18-29,Yes,Energy drink,1,To stay up late,Food supplement,8
+18-29,Yes,Coffee,3,To be more focused and concentrated,Drug,6
+30-45,Yes,Coffee,2,To feel more awake,Food supplement,6
+18-29,Yes,Pre-workout drinks,1,To improve physical performance,Food supplement,8
+45-60,No,,0,,Drug,10
+<18,Yes,Pre-workout drinks,1,To improve physical performance,Food supplement,8
+<18,No,,0,,Drug,11
+45-60,Yes,Tea,1,No specific purpose,Food supplement,9
+18-29,Yes,Energy drink,2,To be more focused and concentrated,Food supplement,8
+30-45,Yes,Coffee,4,To improve physical performance,Food supplement,7
+>60,Yes,Tea,1,To feel more awake,Food supplement,7
+30-45,Yes,Coffee,2,To be more focused and concentrated,Drug,7
+18-29,Yes,Pre-workout drinks,1,To improve physical performance,Food supplement,8
+18-29,Yes,Coffee,5,To be more focused and concentrated,Drug,7
+<18,Yes,Energy drink,2,To be more focused and concentrated,Food supplement,8
+<18,Yes,Energy drink,3,No specific purpose,Food supplement,8
+45-60,Yes,Pre-workout drinks,1,To improve physical performance,Food supplement,7
+<18,No,,0,,Drug,8
+18-29,Yes,Energy drink,2,To be more focused and concentrated,Food supplement,7
+30-45,Yes,Coffee,4,To improve physical performance,Food supplement,7
+>60,Yes,Tea,1,To feel more awake,Food supplement,7
+30-45,Yes,Coffee,2,To be more focused and concentrated,Drug,8
+18-29,Yes,Pre-workout drinks,1,To improve physical performance,Food supplement,7
+18-29,Yes,Coffee,5,To be more focused and concentrated,Drug,5
+<18,Yes,Energy drink,2,To be more focused and concentrated,Food supplement,8
+<18,Yes,Energy drink,3,No specific purpose,Food supplement,7
+45-60,Yes,Pre-workout drinks,1,To improve physical performance,Food supplement,9
+<18,No,,0,,Drug,7
+18-29,Yes,Coffee,3,To feel more awake,Drug,6
+18-29,Yes,Energy drink,1,To feel more awake,Food supplement,8
+18-29,Yes,Energy drink,1,To stay up late,Food supplement,8
+18-29,Yes,Coffee,3,To be more focused and concentrated,Drug,7
+30-45,Yes,Coffee,2,To feel more awake,Food supplement,8
+18-29,Yes,Pre-workout drinks,1,To be more focused and concentrated,Food supplement,8
+45-60,No,,0,,Drug,9
+<18,Yes,Pre-workout drinks,1,To improve physical performance,Food supplement,7
+<18,No,,0,,Drug,6
+45-60,Yes,Tea,1,No specific purpose,Food supplement,8
+18-29,Yes,Energy drink,2,To be more focused and concentrated,Food supplement,8
+30-45,Yes,Coffee,4,To be more focused and concentrated,Food supplement,6
+>60,Yes,Tea,1,To feel more awake,Food supplement,8
+18-29,Yes,Coffee,3,To be more focused and concentrated,Drug,8
+30-45,Yes,Coffee,2,To feel more awake,Food supplement,9
+18-29,Yes,Pre-workout drinks,1,To improve physical performance,Food supplement,9
+45-60,No,,0,,Drug,8
+<18,Yes,Pre-workout drinks,1,To improve physical performance,Food supplement,7
+<18,No,,0,,Drug,8
+45-60,Yes,Tea,1,No specific purpose,Food supplement,9
+<18,Yes,Energy drink,3,No specific purpose,Food supplement,8
+45-60,Yes,Pre-workout drinks,1,To improve physical performance,Food supplement,8
+<18,No,,0,,Drug,8
+18-29,Yes,Coffee,3,To feel more awake,Drug,4
+18-29,Yes,Energy drink,1,To feel more awake,Food supplement,8
+18-29,Yes,Energy drink,4,To stay up late,Food supplement,7
+18-29,Yes,Coffee,3,To be more focused and concentrated,Drug,7
+30-45,Yes,Coffee,2,To be more focused and concentrated,Food supplement,7
+18-29,Yes,Pre-workout drinks,1,To improve physical performance,Food supplement,7
+45-60,No,,0,,Drug,7
+<18,Yes,Pre-workout drinks,1,To be more focused and concentrated,Food supplement,8
+<18,No,,0,,Drug,8
+45-60,Yes,Tea,1,No specific purpose,Food supplement,8
+30-45,Yes,Coffee,4,To improve physical performance,Food supplement,6
+>60,Yes,Tea,1,To feel more awake,Food supplement,7
+18-29,Yes,Coffee,3,To be more focused and concentrated,Drug,7
+30-45,Yes,Coffee,2,To feel more awake,Food supplement,7
+18-29,Yes,Pre-workout drinks,1,To improve physical performance,Food supplement,7
+45-60,No,,0,,Drug,8
+<18,Yes,Pre-workout drinks,1,To improve physical performance,Food supplement,8
+<18,No,,0,,Drug,8
+45-60,Yes,Tea,1,No specific purpose,Food supplement,8
+<18,Yes,Energy drink,3,No specific purpose,Food supplement,7
+45-60,Yes,Pre-workout drinks,1,To be more focused and concentrated,Food supplement,8
+<18,No,,0,,Drug,10
+18-29,Yes,Coffee,3,To feel more awake,Drug,6
+18-29,Yes,Energy drink,1,To feel more awake,Food supplement,7
+18-29,Yes,Coffee,3,To be more focused and concentrated,Drug,7
+30-45,Yes,Coffee,2,To feel more awake,Food supplement,7
+18-29,Yes,Pre-workout drinks,1,To improve physical performance,Food supplement,7
+45-60,No,,0,,Drug,8
+<18,Yes,Pre-workout drinks,1,To improve physical performance,Food supplement,8
+<18,No,,0,,Drug,8
+45-60,Yes,Tea,1,No specific purpose,Food supplement,8
+<18,Yes,Energy drink,3,No specific purpose,Food supplement,7
+45-60,Yes,Pre-workout drinks,1,To improve physical performance,Food supplement,7
+<18,No,,0,,Drug,8
+18-29,Yes,Coffee,3,To feel more awake,Drug,7
+18-29,Yes,Energy drink,1,To be more focused and concentrated,Food supplement,7
+18-29,Yes,Energy drink,1,To stay up late,Food supplement,6
+18-29,Yes,Coffee,3,To be more focused and concentrated,Drug,6
+30-45,Yes,Coffee,2,To feel more awake,Food supplement,6
+18-29,Yes,Pre-workout drinks,1,To improve physical performance,Food supplement,9
+45-60,No,,0,,Drug,8
+18-29,Yes,Coffee,3,To be more focused and concentrated,Drug,7
+30-45,Yes,Coffee,2,To feel more awake,Food supplement,6
+18-29,Yes,Pre-workout drinks,2,To improve physical performance,Food supplement,6
+45-60,No,,0,,Drug,8
+<18,No,,0,,Drug,8
+18-29,No,,0,,Food supplement,8
+<18,No,,0,,Food supplement,7
+<18,No,,0,,Food supplement,6
+<18,No,,0,,Drug,6
+45-60,No,,0,,Drug,8
+30-45,No,,0,,Food supplement,8
+<18,No,,0,,Drug,10
+<18,No,,0,,Drug,9
+45-60,No,,0,,Food supplement,11
+>60,No,,0,,Drug,10
+<18,No,,0,,Food supplement,7
+45-60,No,,0,,Drug,7
